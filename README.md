@@ -1,6 +1,6 @@
-# [Petersen Insights Website] (https://www.peterseninsights.com)
+# [Petersen Insights Website](https://www.peterseninsights.com)
 
-##[Based on the Jekyll Theme: Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
+## [Based on the Jekyll Theme: Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
 
 [Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
